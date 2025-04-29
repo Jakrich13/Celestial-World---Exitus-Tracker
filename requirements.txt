@@ -1,0 +1,10 @@
+customtkinter==5.2.2
+ahk-binary==2023.9.0
+ahk==1.8.3
+pillow==11.1.0
+keyboard==0.13.5
+pyautogui==0.9.54
+pydirectinput==1.0.4
+pywin32==308
+opencv-python==4.11.0.86
+PyGetWindow==0.0.9
